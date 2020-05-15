@@ -11,7 +11,9 @@ GitHub Link: https://github.com/hiuwing0107/ExtraCreditBlog--CISC3140.git
 
 ### More Information
 
-This is my first blog. Hope you will love it. Thank you ~ ☺️
+This is my first blog. 
+Hope you will love it. 
+Thank you ~ ☺️
 
 ### Contact me
 
